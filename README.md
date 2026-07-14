@@ -1,5 +1,5 @@
 # ZEN Model
-
+This repository contains early experiments into reasoning architectures. Active development has moved to ZEN Fusion.
 ## An AI architecture for learning control strategies in complex systems.
 
 ![ZEN Model](https://img.shields.io/badge/status-research%20prototype-orange)
